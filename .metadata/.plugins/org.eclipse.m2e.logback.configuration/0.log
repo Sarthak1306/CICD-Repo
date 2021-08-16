@@ -1,1 +1,30 @@
 2021-08-09 15:19:30,792 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-16 15:07:16,976 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-16 15:12:06,988 [Worker-26: Creating project "CICDLab02"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: upes.ac.in:CICDLab02:0.0.1-SNAPSHOT @ /Users/sarthak/University of Petroleum & Energy Studies/Semester V/CICD LAB/CICDLab02/pom.xml.
+2021-08-16 15:12:07,526 [Worker-26: Creating project "CICDLab02"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CICDLab02/src/main/java
+2021-08-16 15:12:07,527 [Worker-26: Creating project "CICDLab02"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CICDLab02/src/main/resources
+2021-08-16 15:12:07,528 [Worker-26: Creating project "CICDLab02"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CICDLab02/src/test/java
+2021-08-16 15:12:07,528 [Worker-26: Creating project "CICDLab02"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CICDLab02/src/test/resources
+2021-08-16 15:12:08,291 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:12:08,297 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:12:08,299 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:12:08,301 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:14:28,952 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:14:28,958 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:14:28,959 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:14:28,960 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:15:08,433 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: upes.ac.in:CICDLab02:0.0.1-SNAPSHOT @ /Users/sarthak/University of Petroleum & Energy Studies/Semester V/CICD LAB/CICDLab02/pom.xml.
+2021-08-16 15:15:08,571 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:15:08,572 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:15:08,574 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:15:08,574 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:16:41,741 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:16:41,741 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:16:41,742 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:16:41,743 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:16:57,722 [Worker-39: Launching Executing clean in _Users_sarthak_University of Petroleum _ Energy Studies_Semester V_CICD LAB_CICDLab02] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/sarthak/University of Petroleum & Energy Studies/Semester V/CICD LAB/CICDLab02
+2021-08-16 15:16:57,724 [Worker-39: Launching Executing clean in _Users_sarthak_University of Petroleum _ Energy Studies_Semester V_CICD LAB_CICDLab02] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-08-16 15:16:59,589 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:16:59,590 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-16 15:16:59,591 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-16 15:16:59,591 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
